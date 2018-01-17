@@ -1,9 +1,9 @@
-# Program name: p14.py
+# Program name: p13.py
 # Your Name: 
 # Python Version: 3.6.4
 # Date: 01/16/2018
-# Description: 	Write a program that asks the user for day and month of a birthday.
-#               The program then tells the Zodiac signs that will be compatible with that birthday.
+# Description: 	Write a program to convert any given number of total cents (under 100)
+#               into the correct number of: quarters, dimes, nickels, pennies.
 #
 #               Hint, use integer casting, 66/25 equals 2.64, but int(66/25)=2.
 #               # Test 66, 16, 6, 4
